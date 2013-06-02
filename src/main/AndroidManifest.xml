@@ -1,0 +1,25 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.scratch"
+    android:versionCode="0"
+    android:versionName="0.1">
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="16"/>
+
+    <application
+        android:label="Scratch"
+        android:icon="@drawable/android:star_big_on"
+        android:theme="@android:style/Theme.Holo.Light"
+        android:debuggable="true">
+
+        <activity
+          android:label="Scratch"
+          android:name=".ScratchActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>
