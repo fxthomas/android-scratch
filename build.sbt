@@ -1,5 +1,5 @@
 // Include the Android plugin
-androidDefault
+androidDefaults
 
 // Name of your app
 name := "Scratch"
