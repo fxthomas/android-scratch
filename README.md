@@ -1,7 +1,7 @@
 This is a sample Android application using Scala and the
 [SBT-Android](https://github.com/jberkel/android-plugin) plugin.
 
-# Directory layout
+## Directory layout
 
 ```
 build.sbt                       -- Build configuration
@@ -11,7 +11,7 @@ src/main/res                    -- Android resources
 src/main/scala                  -- Scala code
 ```
 
-# Common commands
+## Common commands
 
   * Package with `apk`
   * Install with `install`
