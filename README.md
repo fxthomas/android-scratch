@@ -1,5 +1,8 @@
 This is a sample Android application using Scala and the
-[SBT-Android](https://github.com/jberkel/android-plugin) plugin.
+[SBT-Android](https://github.com/jberkel/android-plugin) plugin (version
+**0.7-SNAPSHOT** found in [my
+branch](https://github.com/fxthomas/android-plugin/tree/rewrite-cleanup) at the
+moment)
 
 ## Directory layout
 
