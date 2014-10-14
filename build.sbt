@@ -14,6 +14,6 @@ versionCode := 0
 scalaVersion := "2.10.2"
 
 // Version of the Android platform SDK
-platformName := "android-19"
+platformName := "android-20"
 
 resolvers += Resolver.file("Local repo", file(System.getProperty("user.home") + "/.ivy2/local"))(Resolver.ivyStylePatterns)
